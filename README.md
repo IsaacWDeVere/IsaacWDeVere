@@ -1,10 +1,10 @@
 # IsaacWDeVere <img align="left" alt="Spring" width="35px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/0acdec10-cead-4800-8ff7-8849bc1b7eb4" />
 
 **Digital Craftsman**
-- **`Private Investigator`**
-- **`Ethical Hacker / PI`**
-- **`Game Developer`**
-- **`Website Designer`**
+**`Private Investigator`**
+**`Ethical Hacker / PI`**
+**`Game Developer`**
+**`Website Designer`**
 
 *`Referred to as Isaac/Izz by friends of mine.`*
 
@@ -42,6 +42,7 @@ My:
 | 800+ | Appeals Handled | The amount of appeals against moderation I have handled. |
 | 140+ | Mentored | People I've mentored. |
 | 25,000+ | Thank you's Received | I appreciate every thank you(s) given to me. |
+
 **Updated - 14/11/25**
 
 ## Achievements `Developer`
@@ -52,6 +53,7 @@ My:
 | 13,000+ | Codes | Working codes. / Codes I've written. |
 | 55+ | Projects | Amount of projects I have worked on. |
 | 80+ | Developers Platforms Explored | Other Developers Platforms that i've explored. |
+
 **Updated - 14/11/25**
 
 # DeVere
