@@ -1,6 +1,6 @@
 # IsaacWDeVere <img align="left" alt="Spring" width="35px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/0acdec10-cead-4800-8ff7-8849bc1b7eb4" />
 
-**Digital Craftsman**
+## **Digital Craftsman**
 - **`Private Investigator`**
 - **`Ethical Hacker / PI`**
 - **`Game Developer`**
