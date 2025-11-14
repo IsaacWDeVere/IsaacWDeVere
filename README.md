@@ -40,8 +40,9 @@ My:
 | 7,050+  | Reports Made | The amount of reports I have made to discord servers. |
 | 11,000+ | Reports Handled | The amount of reports I have handled, including in-chat reports. |
 | 800+ | Appeals Handled | The amount of appeals against moderation I have handled. |
-| 1,050+ | Mentored | People I've mentored. |
+| 140+ | Mentored | People I've mentored. |
 | 25,000+ | Thank you's Received | I appreciate every thank you(s) given to me. |
+| Updated - 14/11/25 |
 
 ## Achievements `Developer`
 | Amount  | Particulars | Description |
@@ -51,6 +52,7 @@ My:
 | 13,000+ | Codes | Working codes. / Codes I've written. |
 | 55+ | Projects | Amount of projects I have worked on. |
 | 80+ | Developers Platforms Explored | Other Developers Platforms that i've explored. |
+| Updated - 14/11/25 |
 
 # DeVere
 **`Founder & Chairman Of DeVere Enterprises`**
