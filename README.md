@@ -28,8 +28,8 @@ And above all, I hold a timeless appreciation for the elegance of jazz.
 
 My: 
 [Discord](https://discord.com/users/1233652449365983254/),
-[Roblox](https://www.roblox.com/users/2698166225/profile),
-[Youtube](https://www.youtube.com/@IsaacWDeVere).
+[Roblox](https://www.roblox.com/users/8887932417/profile),
+[Youtube](https://www.youtube.com/@IsaacWDeVere).*
 
 ## Achievements `Discord`
 | Amount  | Particulars | Description |
@@ -52,7 +52,10 @@ My:
 | 55+ | Projects | Amount of projects I have worked on. |
 | 80+ | Developers Platforms Explored | Other Developers Platforms that i've explored. |
 
-# The Table.
+# DeVere
+**`Founder & Chairman Of DeVere Enterprises`**
+
+## The Table.
 
 A council of eight equals, bound by silence and tradition.
 No leader, no founder — each seat carries the same weight, yet none reveal their name.
