@@ -1,8 +1,10 @@
 # IsaacWDeVere <img align="left" alt="Spring" width="35px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/0acdec10-cead-4800-8ff7-8849bc1b7eb4" />
 
-- **`Ethical Hacker / PT`**
-**`Digital Craftsman
-(Developer/Designer/CEH/PT)`**
+**Digital Craftsman**
+- **`Private Investigator`**
+- **`Ethical Hacker / PI`**
+- **`Game Developer`**
+- **`Website Designer`**
 
 *`Referred to as Isaac/Izz by friends of mine.`*
 
@@ -13,6 +15,20 @@
 Hello, nice to meet ya. My name is Isaac W. DeVere. I possess extensive knowledge in both technology and architecture, and I take pride in maintaining a balance between my academic pursuits and personal interests such as development and social media. Discord is my primary platform for communication and collaboration.
 
 Professionally, I am both a Developer and an Online Therapist. With over 4 years of experience in Psychology, I’ve developed a keen ability to understand people-often gaining insight into their personality through just a few of their messages.
+
+Should you ever find yourself in need of someone to speak with—whether for technical collaboration or personal conversation—I welcome you to reach out at any time.
+
+And above all, I hold a timeless appreciation for the elegance of jazz.
+
+| Languages  |
+| :--        |
+| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
+| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
+| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+
+My: 
 
 Should you ever find yourself in need of someone to speak with—whether for technical collaboration or personal conversation—I welcome you to reach out at any time.
 
