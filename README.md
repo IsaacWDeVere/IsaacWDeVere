@@ -34,46 +34,24 @@ My:
 ## Achievements `Discord`
 | Amount  | Particulars | Description |
 | :---:         |     :---:      |          :---: |
-| 850,000+  | Messages Sent	  | Total amount of messages sent on Discord. |
-| 3,000+  | Talked To  | Total amount of people talked to. |
-| 2,000+  | Moderation Cases  | The amount of moderation cases issued. |
+| 950,000+  | Messages Sent	  | Total amount of messages sent on Discord. |
+| 6,050+  | Talked To  | Total amount of people talked to. |
+| 7,000+  | Moderation Cases  | The amount of moderation cases issued. |
 | 4,050+  | Reports Made | The amount of reports I have made to discord servers. |
 | 9,000+ | Reports Handled | The amount of reports I have handled, including in-chat reports. |
-| 800+ | Appeals Handled | amount of appeals against moderation I have handled. |
+| 2,000 | Appeals Handled | amount of appeals against moderation I have handled. |
 | 140+ | Mentored | People I've mentored. |
-| 25,000+ | Thank you's Received | I appreciate every thank you(s) given to me. |
+| 6,000+ | Thank you's Received | I appreciate every thank you(s) given to me. |
 
 **Updated - 14/11/25**
 
 ## Achievements `Developer`
 | Amount  | Particulars | Description |
 | :---:         |     :---:      |          :---: |
-| 350+  | Folders  | The amount of folders i've made. |
+| 315+  | Folders  | The amount of folders i've made. |
 | 1,050+ | Files | The amount of files I have in my workspace. |
-| 28,000+ | Codes | Working codes. / Codes I've written. |
+| 28,000+ | Lines of codes | Working codes. / Codes I've written. |
 | 55+ | Projects | Amount of projects I have worked on. |
 | 80+ | Developers Platforms Explored | Other Developers Platforms that i've explored. |
 
 **Updated - 14/11/25**
-
-# DeVere
-**`Founder & Chairman Of DeVere Enterprises`**
-
-## The Table.
-
-A council of eight equals, bound by silence and tradition.
-No leader, no founder — each seat carries the same weight, yet none reveal their name.
-Known only by titles etched in gold — The DeVere, The Ace, The Spade, The Crest, The Ledger, The Signet, The Ivory, The Bond — they meet in hidden estates and rain-slick halls, deciding fates behind closed doors.
-
-No record of their existence is confirmed; only whispers speak of “eight chairs” and the silent agreements made upon them. Their influence is felt, never seen — fortunes rise and fall, empires shift, and history bends quietly in their favor.
-
-| Members  |
-| :--        |
-| The DeVere|
-|The Ace|
-|The Spade|
-|The Crest|
-|The Ledger|
-|The Signet|
-|The Ivory|
-|The Bond |
