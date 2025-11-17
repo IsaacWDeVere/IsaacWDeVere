@@ -37,11 +37,11 @@ My:
 | 850,000+  | Messages Sent	  | Total amount of messages sent on Discord. |
 | 3,000+  | Talked To  | Total amount of people talked to. |
 | 2,000+  | Moderation Cases  | The amount of moderation cases issued. |
-| 7,050+  | Reports Made | The amount of reports I have made to discord servers. |
-| 11,000+ | Reports Handled | The amount of reports I have handled, including in-chat reports. |
-| 800+ | Appeals Handled | The amount of appeals against moderation I have handled. |
+| 4,050+  | Reports Made | The amount of reports I have made to discord servers. |
+| 9,000+ | Reports Handled | The amount of reports I have handled, including in-chat reports. |
+| 800+ | Appeals HandHandled amount of appeals against moderation I have handled. |
 | 140+ | Mentored | People I've mentored. |
-| 25,000+ | Thank you's Received | I appreciate every thank you(s) given to me. |
+| 25,000+ | Thank you's Receceiv | I appreciate every thank you(s) given to me. |
 
 **Updated - 14/11/25**
 
@@ -50,7 +50,7 @@ My:
 | :---:         |     :---:      |          :---: |
 | 350+  | Folders  | The amount of folders i've made. |
 | 1,050+ | Files | The amount of files I have in my workspace. |
-| 13,000+ | Codes | Working codes. / Codes I've written. |
+| 28,000+ | Codes | Working codes. / Codes I've written. |
 | 55+ | Projects | Amount of projects I have worked on. |
 | 80+ | Developers Platforms Explored | Other Developers Platforms that i've explored. |
 
