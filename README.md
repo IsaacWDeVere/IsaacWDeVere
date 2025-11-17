@@ -39,9 +39,9 @@ My:
 | 2,000+  | Moderation Cases  | The amount of moderation cases issued. |
 | 4,050+  | Reports Made | The amount of reports I have made to discord servers. |
 | 9,000+ | Reports Handled | The amount of reports I have handled, including in-chat reports. |
-| 800+ | Appeals HandHandled amount of appeals against moderation I have handled. |
+| 800+ | Appeals Handled | amount of appeals against moderation I have handled. |
 | 140+ | Mentored | People I've mentored. |
-| 25,000+ | Thank you's Receceiv | I appreciate every thank you(s) given to me. |
+| 25,000+ | Thank you's Received | I appreciate every thank you(s) given to me. |
 
 **Updated - 14/11/25**
 
